@@ -1,0 +1,8 @@
+AysenurOzer#10000#0.5#1
+CanAkboyraz#20000#0.2#2
+BurakOzer#30000#0.4#3
+BuketOzer#40000#0.5#4
+AlperOzer#25000#0.6#5
+DorukOzer#15000#0.8#6
+NihatOzer#35000#0.9#7
+MelihaOzer#42000#0.2#8
